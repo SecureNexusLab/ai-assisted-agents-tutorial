@@ -598,6 +598,6 @@ AI 辅助开发
 
 **从“会使用 AI”进一步走向“会让 AI 完成任务”。**
 
-**作者：TheBinKing、【白】、安曲、郑海林、TheBigBangTheory**
+**作者：TheBinKing、【白】、安曲、Hailin Zheng、TheBigBangTheory**
 
 **SecureNexusLab社区 联合署名：南京信息工程大学暗全社区·松湖十三中计算技术协会**
